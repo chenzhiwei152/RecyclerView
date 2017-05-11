@@ -5,8 +5,9 @@
 
 ## 效果图
 
-*预览
+* 预览
 <img src="Screenshots/Screenshot_20170511-161125.png" width="420px"/>
 
-*RecyclerView常用的几种layoutManager
+* RecyclerView常用的几种layoutManager
+
 <img src="Screenshots/Screenshot_20170511-161129.png" width="420px"/>
